@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="opendb.inc" server="C:/wamp/www/mywork/maxout/" local="130506884340000000" remote="130506884340000000" Dst="2" />
+<file name="closedb.inc" server="C:/wamp/www/mywork/maxout/" local="130506884320000000" remote="130506884320000000" Dst="2" />
+<file name="config.inc" server="C:/wamp/www/mywork/maxout/" local="131164100670187232" remote="131164100670000000" Dst="2" />
+<file name="config.inc" server="C:/wamp/www/mywork/dubaiko/" local="131212588123305063" remote="131212588120000000" Dst="0" />
+<file name="opendb.inc" server="C:/wamp/www/mywork/dubaiko/" local="131176415200000000" remote="131176415200000000" Dst="0" />
+<file name="closedb.inc" server="C:/wamp/www/mywork/dubaiko/" local="131176415200000000" remote="131176415200000000" Dst="0" />
+<file name="config.inc" server="C:/wamp/www/mywork/mall/" local="131280812685491928" remote="131280812680000000" Dst="1" />
+<file name="opendb.inc" server="C:/wamp/www/mywork/mall/" local="131176415200000000" remote="131176415200000000" Dst="1" />
+<file name="closedb.inc" server="C:/wamp/www/mywork/mall/" local="131176415200000000" remote="131176415200000000" Dst="1" />
+<file name="config.inc" server="C:/wamp/www/mywork/jobixe/" local="131317212449602042" remote="131317212440000000" Dst="0" />
+<file name="opendb.inc" server="C:/wamp/www/mywork/jobixe/" local="131176415200000000" remote="131176415200000000" Dst="0" />
+<file name="closedb.inc" server="C:/wamp/www/mywork/jobixe/" local="131176415200000000" remote="131176415200000000" Dst="0" />
+<file name="config.inc" server="C:/wamp/www/mywork/wafer/" local="131362185700572847" remote="131362185700000000" Dst="0" />
+<file name="opendb.inc" server="C:/wamp/www/mywork/wafer/" local="131176415200000000" remote="131176415200000000" Dst="0" />
+<file name="check_mail.php" server="C:/wamp/www/mywork/wafer/" local="131362472718241501" remote="131362472710000000" Dst="0" />
+<file name="closedb.inc" server="C:/wamp/www/mywork/wafer/" local="131176415200000000" remote="131176415200000000" Dst="0" />
+<file name="admin_action.php" server="C:/wamp/www/mywork/wafer/" local="131362491303999877" remote="131362491300000000" Dst="0" />
+<file name="maincategory_action.php" server="C:/wamp/www/mywork/wafer/" local="131364685147362534" remote="131364685140000000" Dst="0" />
+<file name="update_maincateg.php" server="C:/wamp/www/mywork/wafer/" local="131364732884196279" remote="131364732880000000" Dst="0" />
+<file name="maincategory_view.php" server="C:/wamp/www/mywork/wafer/" local="131364659784685027" remote="131364659780000000" Dst="0" />
+<file name="delete_maincategory.php" server="C:/wamp/www/mywork/wafer/" local="131364661080133462" remote="131364661080000000" Dst="0" />
+<file name="category_action.php" server="C:/wamp/www/mywork/wafer/" local="131364674829222504" remote="131364674820000000" Dst="0" />
+<file name="category_view.php" server="C:/wamp/www/mywork/wafer/" local="131364677028503263" remote="131364677020000000" Dst="0" />
+<file name="update_categ.php" server="C:/wamp/www/mywork/wafer/" local="131364679018079446" remote="131364679010000000" Dst="0" />
+<file name="subvalues_action.php" server="C:/wamp/www/mywork/wafer/" local="131364786191364088" remote="131364786190000000" Dst="0" />
+<file name="update_subvalue.php" server="C:/wamp/www/mywork/wafer/" local="131364821448397712" remote="131364821440000000" Dst="0" />
+<file name="delete_subvalue.php" server="C:/wamp/www/mywork/wafer/" local="131364835544197703" remote="131364835540000000" Dst="0" />
+</dwsync>

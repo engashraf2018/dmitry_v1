@@ -1,0 +1,275 @@
+@media only screen and (min-width:1023px) and (max-width:1100px) {
+    .nav>li>a {
+        padding: 18px 5px;
+        font-size: 10px
+    }
+    .righ p {
+        font-size: 24px
+    }
+    .title h3 {
+        font-size: 14px
+    }
+    .conty .col-md-6 p {
+        font-size: 15px
+    }
+    .after-footer .col-md-4 img:first-child {
+        margin-right: 0;
+        width: 141px
+    }
+    .after-footer .col-md-8 .form-control {
+        width: 178px;
+        padding-right: 10px
+    }
+    .copyr span {
+        padding: 0 4px
+    }
+    .copyr .links a {
+        font-size: 10px
+    }
+    .righ.nd p {
+        font-size: 20px
+    }
+    .top-aside input {
+        width: 133px
+    }
+    .tapy .nav-tabs.nav-justified>li:nth-child(2)>a {
+        background-size: 25px!important
+    }
+    .tapy label {
+        font-size: 13px
+    }
+}
+
+@media only screen and (min-width:700px) and (max-width:1023px) {
+    .tapy .nav-tabs.nav-justified>li:nth-child(1)>a,
+    .tapy .nav-tabs.nav-justified>li:nth-child(2)>a,
+    .tapy .nav-tabs.nav-justified>li:nth-child(3)>a,
+    .tapy .nav-tabs.nav-justified>li:nth-child(4)>a {
+        background-color: #221e1f;
+        background-image: none
+    }
+    .tapy .nav-tabs.nav-justified>li.active:nth-child(1)>a,
+    .tapy .nav-tabs.nav-justified>li.active:nth-child(1)>a:hover,
+    .tapy .nav-tabs.nav-justified>li.active:nth-child(2)>a,
+    .tapy .nav-tabs.nav-justified>li.active:nth-child(2)>a:hover,
+    .tapy .nav-tabs.nav-justified>li.active:nth-child(3)>a,
+    .tapy .nav-tabs.nav-justified>li.active:nth-child(3)>a:hover,
+    .tapy .nav-tabs.nav-justified>li.active:nth-child(4)>a,
+    .tapy .nav-tabs.nav-justified>li.active:nth-child(4)>a:hover,
+    .tapy .nav-tabs>li.active:nth-child(1)>a:focus,
+    .tapy .nav-tabs>li.active:nth-child(2)>a:focus,
+    .tapy .nav-tabs>li.active:nth-child(3)>a:focus,
+    .tapy .nav-tabs>li.active:nth-child(4)>a:focus {
+        background: #e9e7e5
+    }
+}
+
+@media (max-width:1023px) {
+    .text-center a.red {
+        float: none;
+        margin-bottom: 20px;
+        display: inline-block
+    }
+    .footer .col-md-4.con-cod {
+        padding-left: 15px;
+        border: 0;
+        clear: both
+    }
+    .top-aside input {
+        width: 80px
+    }
+    .heada {
+        width: auto
+    }
+    .nav>li>a {
+        font-size: 8px;
+        padding: 18px 4px;
+        color: #777
+    }
+    .tapee ul.nav.nav-tabs.text-center>li a {
+        margin-right: 10px
+    }
+    .ui-34 .navi li {
+        float: none;
+        width: 100%
+    }
+    .repli-1 {
+        background: #fcfcfc
+    }
+}
+
+@media (max-width:767px) {
+    .logo img {
+        margin: 0 auto;
+        display: block;
+    }
+    .fi-titl h2 {
+    color: #fff;
+    font-size: 24px;
+        line-height: 140%;
+    }
+    .navbar-nav>li:hover:before {
+        display: none;
+    }
+    .navbar-nav>li a:hover {
+        background: #fcfcfc !important;
+    }
+    .nav>li.focus>a {
+        margin: 10px;
+        display: block;
+    }
+    .nav.navbar-nav>li+li {
+        margin: 0;
+    }
+    .section-3 h2, .title-wrapper h2 {
+    font-size: 24px;
+    line-height: 140%;
+    }
+    .fi-titl .input-group-addon {
+    padding: 15px 6px;
+    font-size: 14px;
+    }
+    .fi-titl .input-group-addon i {
+        display: none;
+    }
+    .fi-titl .input-group .form-control {
+    font-size: 16px;
+    }
+    .fi-titl .col-md-8 {
+        padding: 0;
+    }
+    #owl-demo3 .owl-nav {
+        display: none;
+    }
+    .social_icons>a {
+    margin: 0px;
+    }
+    .nav>li>a,
+    .navbar-header.navbar-default {
+        border-bottom: 1px solid #ddd
+    }
+    .itemw,
+    .outer {
+        height: auto
+    }
+    .footer .col-md-4:first-child {
+        border-right: 0
+    }
+    .fleet .tapee ul.nav.nav-tabs.text-center>li {
+        float: none;
+        width: 100%
+    }
+    .photo-filt ul.nav.nav-tabs.text-center>li a {
+        margin: 0
+    }
+    .footer .col-md-2 {
+        border-right: 0;
+        min-height: auto
+    }
+    .newsw img {
+        margin-bottom: 15px
+    }
+    .toggli .panel-default>.panel-heading+.panel-collapse>.panel-body h4 {
+        line-height: 180%
+    }
+    .nav>li>a {
+        font-size: 14px;
+        padding: 18px 8px
+    }
+    .nav .dropdown-menu {
+        min-width: 100%
+    }
+    .top-aside input {
+        width: 180px
+    }
+    .heade {
+        position: relative
+    }
+    .tp-caption {
+        display: none
+    }
+    .heada {
+        width: auto;
+        padding: 5px
+    }
+    .heade .container {
+        padding: 0 15px
+    }
+    .navbar-nav {
+        margin: 0
+    }
+    .navigation,
+    a.butt {
+        margin-top: 10px
+    }
+    .navigation {
+        border: 1px solid #ddd
+    }
+    .top-aside p span {
+        padding-left: 10px
+    }
+    .top-aside input {
+        margin-bottom: 10px
+    }
+    .tapy .nav-tabs.nav-justified>li>a {
+        border: 1px solid #ddd!important;
+        border-radius: 0
+    }
+    .mt-label {
+        padding: 0 5px
+    }
+    .itemw p {
+        font-size: 19px;
+        padding: 15px 12px
+    }
+    .title h3 {
+        font-size: 14px
+    }
+    .righ p {
+        font-size: 24px
+    }
+    img.foot-l {
+        margin: 20px auto
+    }
+    .footer h3 {
+        padding-top: 15px;
+        border-top: 1px solid #ddd
+    }
+    .after-footer .col-md-4 img {
+        margin: 10px auto
+    }
+    a.newsl {
+        margin-top: 10px
+    }
+    .links {
+        text-align: center
+    }
+    .after-footer .col-md-8 .form-control {
+        margin-right: 10px;
+        width: 277px
+    }
+    .top-aside p,
+    .top-aside p span {
+        font-size: 11px
+    }
+    .boxy {
+        background: #e9e7e5
+    }
+    .tapee ul.nav.nav-tabs.text-center>li a {
+        margin-right: 0;
+        padding: 12px 65px;
+        display: block
+    }
+    .tapee ul.nav.nav-tabs.text-center>li {
+        display: block
+    }
+    .banner {
+        height: 300px
+    }
+}
+
+@media (max-width:480px) {
+    .col-xs-6 {
+        width: 100%
+    }
+}

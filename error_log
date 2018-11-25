@@ -1,0 +1,393 @@
+[14-Sep-2017 09:28:09 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/beaitak/public_html/hospital/application/views/pages/news.php on line 64
+[14-Sep-2017 09:28:12 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/beaitak/public_html/hospital/application/views/pages/news.php on line 64
+[14-Sep-2017 09:28:16 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/beaitak/public_html/hospital/application/views/pages/news.php on line 64
+[21-Jan-2018 17:03:21 Africa/Cairo] PHP Parse error:  syntax error, unexpected '}' in /home/youssry/public_html/application/views/api/loginpassanger_api.php on line 15
+[21-Jan-2018 17:03:31 Africa/Cairo] PHP Parse error:  syntax error, unexpected '}' in /home/youssry/public_html/application/views/api/loginpassanger_api.php on line 15
+[21-Jan-2018 17:35:43 Africa/Cairo] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/youssry/public_html/application/controllers/Api.php on line 31
+[23-Jan-2018 16:16:51 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'ك' (T_STRING), expecting ',' or ';' in /home/youssry/public_html/application/views/pages/get_model.php on line 26
+[23-Jan-2018 16:17:01 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'ك' (T_STRING), expecting ',' or ';' in /home/youssry/public_html/application/views/pages/get_model.php on line 26
+[23-Jan-2018 16:36:51 Africa/Cairo] PHP Parse error:  syntax error, unexpected '$date' (T_VARIABLE), expecting ',' or ';' in /home/youssry/public_html/application/views/pages/get_model.php on line 20
+[23-Jan-2018 16:38:37 Africa/Cairo] PHP Fatal error:  Function name must be a string in /home/youssry/public_html/application/views/pages/get_model.php on line 27
+[23-Jan-2018 16:47:58 Africa/Cairo] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/youssry/public_html/application/views/pages/get_model.php on line 33
+[23-Jan-2018 16:48:42 Africa/Cairo] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/youssry/public_html/application/views/pages/get_model.php on line 33
+[23-Jan-2018 16:50:20 Africa/Cairo] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/youssry/public_html/application/views/pages/get_model.php on line 34
+[23-Jan-2018 16:51:00 Africa/Cairo] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/youssry/public_html/application/views/pages/get_model.php on line 39
+[23-Jan-2018 22:27:19 Africa/Cairo] PHP Fatal error:  Call to undefined function arrar() in /home/youssry/public_html/application/controllers/Api.php on line 351
+[23-Jan-2018 22:28:20 Africa/Cairo] PHP Fatal error:  Call to undefined function arrar() in /home/youssry/public_html/application/controllers/Api.php on line 351
+[23-Jan-2018 22:30:47 Africa/Cairo] PHP Fatal error:  Call to undefined function arrar() in /home/youssry/public_html/application/controllers/Api.php on line 351
+[24-Jan-2018 02:12:52 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/youssry/public_html/application/views/pages/config/foget_password_api.php on line 138
+[01-Feb-2018 12:34:51 Africa/Cairo] PHP Parse error:  syntax error, unexpected '<' in /home/youssry/public_html/application/views/pages/cartype.php on line 147
+[05-Feb-2018 23:45:05 Africa/Cairo] PHP Parse error:  syntax error, unexpected '$leaving_city_ar' (T_VARIABLE) in /home/youssry/public_html/application/controllers/Api.php on line 818
+[06-Feb-2018 14:21:01 Africa/Cairo] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 957
+[06-Feb-2018 14:21:47 Africa/Cairo] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 957
+[06-Feb-2018 14:22:09 Africa/Cairo] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 957
+[06-Feb-2018 14:22:29 Africa/Cairo] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 957
+[06-Feb-2018 14:22:35 Africa/Cairo] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 957
+[06-Feb-2018 14:23:07 Africa/Cairo] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 957
+[06-Feb-2018 14:24:47 Africa/Cairo] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 957
+[06-Feb-2018 14:25:53 Africa/Cairo] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 957
+[07-Feb-2018 22:43:09 Africa/Cairo] PHP Parse error:  syntax error, unexpected '}' in /home/youssry/public_html/site/inc/sidebar.php on line 29
+[07-Feb-2018 22:44:58 Africa/Cairo] PHP Parse error:  syntax error, unexpected '}' in /home/youssry/public_html/site/inc/sidebar.php on line 29
+[07-Feb-2018 22:46:02 Africa/Cairo] PHP Parse error:  syntax error, unexpected '}' in /home/youssry/public_html/site/inc/sidebar.php on line 29
+[07-Feb-2018 22:46:16 Africa/Cairo] PHP Parse error:  syntax error, unexpected '}' in /home/youssry/public_html/site/inc/sidebar.php on line 29
+[07-Feb-2018 22:49:25 Africa/Cairo] PHP Parse error:  syntax error, unexpected '}' in /home/youssry/public_html/site/inc/sidebar.php on line 29
+[07-Feb-2018 22:56:55 Africa/Cairo] PHP Parse error:  syntax error, unexpected '}' in /home/youssry/public_html/site/inc/sidebar.php on line 29
+[08-Feb-2018 02:34:15 Africa/Cairo] PHP Fatal error:  Call to undefined method Api::gen_random_string() in /home/youssry/public_html/application/controllers/Api.php on line 260
+[08-Feb-2018 10:15:44 Africa/Cairo] PHP Parse error:  syntax error, unexpected '}' in /home/youssry/public_html/site/inc/sidebar.php on line 29
+[09-Feb-2018 07:22:33 Africa/Cairo] PHP Parse error:  syntax error, unexpected '}' in /home/youssry/public_html/site/inc/sidebar.php on line 29
+[09-Feb-2018 07:23:38 Africa/Cairo] PHP Parse error:  syntax error, unexpected '}' in /home/youssry/public_html/site/inc/sidebar.php on line 29
+[09-Feb-2018 07:23:52 Africa/Cairo] PHP Parse error:  syntax error, unexpected '}' in /home/youssry/public_html/site/inc/sidebar.php on line 29
+[09-Feb-2018 22:58:56 Africa/Cairo] PHP Parse error:  syntax error, unexpected '}' in /home/youssry/public_html/site/inc/sidebar.php on line 29
+[10-Feb-2018 19:09:21 Africa/Cairo] PHP Fatal error:  Call to undefined method Api::gen_random_string() in /home/youssry/public_html/application/controllers/Api.php on line 260
+[11-Feb-2018 01:46:22 Africa/Cairo] PHP Parse error:  syntax error, unexpected end of file in /home/youssry/public_html/application/views/pages/addcar.php on line 389
+[11-Feb-2018 01:46:25 Africa/Cairo] PHP Parse error:  syntax error, unexpected end of file in /home/youssry/public_html/application/views/pages/addcar.php on line 389
+[11-Feb-2018 16:02:16 Africa/Cairo] PHP Fatal error:  Call to undefined method Api::gen_random_string() in /home/youssry/public_html/application/controllers/Api.php on line 260
+[11-Feb-2018 16:19:06 Africa/Cairo] PHP Parse error:  syntax error, unexpected '}' in /home/youssry/public_html/site/inc/sidebar.php on line 29
+[11-Feb-2018 16:22:51 Africa/Cairo] PHP Parse error:  syntax error, unexpected '}' in /home/youssry/public_html/site/inc/sidebar.php on line 29
+[12-Feb-2018 11:38:28 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/youssry/public_html/application/controllers/Api.php on line 1162
+[15-Feb-2018 11:11:00 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/youssry/public_html/application/controllers/Api.php on line 1169
+[15-Feb-2018 11:11:43 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/youssry/public_html/application/controllers/Api.php on line 1169
+[15-Feb-2018 11:12:14 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/youssry/public_html/application/controllers/Api.php on line 1167
+[15-Feb-2018 11:51:13 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/youssry/public_html/application/controllers/Api.php on line 1123
+[15-Feb-2018 11:51:50 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/youssry/public_html/application/controllers/Api.php on line 1123
+[15-Feb-2018 11:51:50 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/youssry/public_html/application/controllers/Api.php on line 1123
+[15-Feb-2018 11:51:50 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/youssry/public_html/application/controllers/Api.php on line 1123
+[21-Feb-2018 13:44:02 Africa/Cairo] PHP Fatal error:  Cannot redeclare gen_random_string() (previously declared in /home/youssry/public_html/application/views/pages/config/passangerregister_api.php:28) in /home/youssry/public_html/application/views/pages/config/passangerregister_api.php on line 77
+[21-Feb-2018 16:46:51 Africa/Cairo] PHP Parse error:  syntax error, unexpected '@', expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 1518
+[22-Feb-2018 13:10:34 Africa/Cairo] PHP Parse error:  syntax error, unexpected '@', expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 1539
+[22-Feb-2018 17:36:18 Africa/Cairo] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 1678
+[26-Feb-2018 11:51:42 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/youssry/public_html/application/controllers/Api.php on line 1006
+[26-Feb-2018 12:15:41 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/youssry/public_html/application/controllers/Api.php on line 970
+[27-Feb-2018 10:58:04 Africa/Cairo] PHP Parse error:  syntax error, unexpected '@', expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 976
+[27-Feb-2018 11:36:23 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/youssry/public_html/application/controllers/Api.php on line 1072
+[27-Feb-2018 11:36:52 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/youssry/public_html/application/controllers/Api.php on line 1072
+[27-Feb-2018 20:46:11 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[27-Feb-2018 20:46:11 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[27-Feb-2018 20:49:52 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[27-Feb-2018 21:16:20 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[27-Feb-2018 21:16:27 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[27-Feb-2018 21:16:35 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[27-Feb-2018 21:19:32 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[27-Feb-2018 21:20:44 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 06:59:54 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 07:00:01 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 07:02:52 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 07:06:48 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 07:08:23 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 07:08:49 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 07:08:49 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 07:08:54 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 07:09:35 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 07:09:42 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 07:10:29 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 07:10:35 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 07:10:40 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 07:10:50 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 09:07:30 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 09:07:32 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 09:07:37 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 09:07:42 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 09:07:48 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 09:08:19 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 09:08:19 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 09:08:19 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 09:08:19 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 09:08:26 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 10:03:00 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 10:06:43 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 10:08:28 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 10:08:52 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 10:24:35 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 10:24:58 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 10:24:59 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 11:06:56 Africa/Cairo] PHP Parse error:  syntax error, unexpected '}' in /home/youssry/public_html/application/views/pages/organizations.php on line 103
+[28-Feb-2018 11:14:04 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 12:07:03 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 12:49:18 Africa/Cairo] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/youssry/public_html/application/views/pages/organizations.php on line 79
+[28-Feb-2018 12:50:26 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 14:10:16 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 14:12:44 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 14:13:31 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 950
+[28-Feb-2018 15:57:58 Africa/Cairo] PHP Fatal error:  Can't use method return value in write context in /home/youssry/public_html/application/controllers/Home.php on line 2143
+[28-Feb-2018 15:58:43 Africa/Cairo] PHP Fatal error:  Can't use method return value in write context in /home/youssry/public_html/application/controllers/Home.php on line 2143
+[28-Feb-2018 15:59:03 Africa/Cairo] PHP Fatal error:  Can't use method return value in write context in /home/youssry/public_html/application/controllers/Home.php on line 2143
+[28-Feb-2018 15:59:16 Africa/Cairo] PHP Parse error:  syntax error, unexpected ')' in /home/youssry/public_html/application/controllers/Home.php on line 2143
+[28-Feb-2018 15:59:20 Africa/Cairo] PHP Fatal error:  Can't use method return value in write context in /home/youssry/public_html/application/controllers/Home.php on line 2143
+[28-Feb-2018 15:59:22 Africa/Cairo] PHP Fatal error:  Can't use method return value in write context in /home/youssry/public_html/application/controllers/Home.php on line 2143
+[13-Mar-2018 12:16:35 Africa/Cairo] PHP Parse error:  syntax error, unexpected '@', expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 2205
+[13-Mar-2018 12:53:57 Africa/Cairo] PHP Parse error:  syntax error, unexpected ''phone'' (T_CONSTANT_ENCAPSED_STRING) in /home/youssry/public_html/application/controllers/Api.php on line 2196
+[13-Mar-2018 12:59:16 Africa/Cairo] PHP Parse error:  syntax error, unexpected '[' in /home/youssry/public_html/application/controllers/Api.php on line 2196
+[13-Mar-2018 12:59:41 Africa/Cairo] PHP Parse error:  syntax error, unexpected '[' in /home/youssry/public_html/application/controllers/Api.php on line 2196
+[13-Mar-2018 13:10:08 Africa/Cairo] PHP Parse error:  syntax error, unexpected '[' in /home/youssry/public_html/application/controllers/Api.php on line 2196
+[13-Mar-2018 13:10:47 Africa/Cairo] PHP Parse error:  syntax error, unexpected '[' in /home/youssry/public_html/application/controllers/Api.php on line 2196
+[13-Mar-2018 13:30:39 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 2226
+[13-Mar-2018 13:36:40 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/youssry/public_html/application/controllers/Api.php on line 2219
+[13-Mar-2018 13:43:18 Africa/Cairo] PHP Fatal error:  Cannot access empty property in /home/youssry/public_html/application/models/Data.php on line 147
+[13-Mar-2018 13:48:42 Africa/Cairo] PHP Fatal error:  Cannot access empty property in /home/youssry/public_html/application/models/Data.php on line 147
+[13-Mar-2018 13:49:23 Africa/Cairo] PHP Fatal error:  Cannot access empty property in /home/youssry/public_html/application/models/Data.php on line 147
+[13-Mar-2018 13:49:51 Africa/Cairo] PHP Fatal error:  Cannot access empty property in /home/youssry/public_html/application/models/Data.php on line 147
+[13-Mar-2018 13:50:03 Africa/Cairo] PHP Fatal error:  Cannot access empty property in /home/youssry/public_html/application/models/Data.php on line 147
+[13-Mar-2018 14:19:34 Africa/Cairo] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 2276
+[13-Mar-2018 14:19:48 Africa/Cairo] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 2276
+[13-Mar-2018 14:22:15 Africa/Cairo] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 2276
+[13-Mar-2018 14:22:19 Africa/Cairo] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 2276
+[13-Mar-2018 14:22:23 Africa/Cairo] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 2276
+[13-Mar-2018 14:22:26 Africa/Cairo] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 2276
+[13-Mar-2018 14:22:32 Africa/Cairo] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 2276
+[13-Mar-2018 14:22:34 Africa/Cairo] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 2276
+[13-Mar-2018 14:22:57 Africa/Cairo] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 2276
+[13-Mar-2018 15:07:50 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 2332
+[13-Mar-2018 15:07:55 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 2332
+[13-Mar-2018 15:08:16 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 2332
+[13-Mar-2018 15:08:18 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 2332
+[13-Mar-2018 15:09:16 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 2332
+[13-Mar-2018 15:09:19 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 2332
+[13-Mar-2018 15:17:10 Africa/Cairo] PHP Parse error:  syntax error, unexpected '=' in /home/youssry/public_html/application/controllers/Api.php on line 2274
+[13-Mar-2018 15:17:12 Africa/Cairo] PHP Parse error:  syntax error, unexpected '=' in /home/youssry/public_html/application/controllers/Api.php on line 2274
+[13-Mar-2018 15:25:30 Africa/Cairo] PHP Fatal error:  Cannot access empty property in /home/youssry/public_html/application/models/Data.php on line 147
+[13-Mar-2018 15:25:36 Africa/Cairo] PHP Fatal error:  Cannot access empty property in /home/youssry/public_html/application/models/Data.php on line 147
+[13-Mar-2018 15:27:06 Africa/Cairo] PHP Fatal error:  Cannot access empty property in /home/youssry/public_html/application/models/Data.php on line 147
+[13-Mar-2018 16:34:02 Africa/Cairo] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/youssry/public_html/application/controllers/Api.php on line 2298
+[13-Mar-2018 16:34:25 Africa/Cairo] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/youssry/public_html/application/controllers/Api.php on line 2298
+[13-Mar-2018 16:35:40 Africa/Cairo] PHP Parse error:  syntax error, unexpected '=' in /home/youssry/public_html/application/controllers/Api.php on line 2298
+[13-Mar-2018 16:35:42 Africa/Cairo] PHP Parse error:  syntax error, unexpected '=' in /home/youssry/public_html/application/controllers/Api.php on line 2298
+[13-Mar-2018 16:39:31 Africa/Cairo] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 2298
+[13-Mar-2018 16:39:36 Africa/Cairo] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 2298
+[13-Mar-2018 17:12:18 Africa/Cairo] PHP Parse error:  syntax error, unexpected ''id_clients){' (T_CONSTANT_ENCAPSED_STRING) in /home/youssry/public_html/application/controllers/Api.php on line 2298
+[13-Mar-2018 17:12:23 Africa/Cairo] PHP Parse error:  syntax error, unexpected ''id_clients){' (T_CONSTANT_ENCAPSED_STRING) in /home/youssry/public_html/application/controllers/Api.php on line 2298
+[13-Mar-2018 17:13:52 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 2297
+[13-Mar-2018 17:13:54 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 2297
+[13-Mar-2018 17:19:14 Africa/Cairo] PHP Parse error:  syntax error, unexpected ''id_clients){' (T_CONSTANT_ENCAPSED_STRING) in /home/youssry/public_html/application/controllers/Api.php on line 2298
+[13-Mar-2018 17:19:16 Africa/Cairo] PHP Parse error:  syntax error, unexpected ''id_clients){' (T_CONSTANT_ENCAPSED_STRING) in /home/youssry/public_html/application/controllers/Api.php on line 2298
+[13-Mar-2018 17:20:06 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 2297
+[13-Mar-2018 17:20:07 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 2297
+[13-Mar-2018 20:32:54 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/youssry/public_html/application/controllers/Api.php on line 2331
+[13-Mar-2018 20:36:14 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/youssry/public_html/application/controllers/Api.php on line 2331
+[13-Mar-2018 20:36:22 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/youssry/public_html/application/controllers/Api.php on line 2331
+[13-Mar-2018 20:36:30 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/youssry/public_html/application/controllers/Api.php on line 2331
+[13-Mar-2018 20:37:05 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/youssry/public_html/application/controllers/Api.php on line 2331
+[13-Mar-2018 20:37:11 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/youssry/public_html/application/controllers/Api.php on line 2331
+[13-Mar-2018 20:37:19 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/youssry/public_html/application/controllers/Api.php on line 2331
+[14-Mar-2018 10:57:28 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/youssry/public_html/application/controllers/Api.php on line 2331
+[14-Mar-2018 10:59:08 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/youssry/public_html/application/controllers/Api.php on line 2331
+[14-Mar-2018 10:59:12 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/youssry/public_html/application/controllers/Api.php on line 2331
+[15-Mar-2018 13:38:28 Africa/Cairo] PHP Parse error:  syntax error, unexpected ''email'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 2560
+[15-Mar-2018 13:38:33 Africa/Cairo] PHP Parse error:  syntax error, unexpected ''email'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 2560
+[15-Mar-2018 13:42:30 Africa/Cairo] PHP Parse error:  syntax error, unexpected ''email'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 2560
+[15-Mar-2018 13:42:33 Africa/Cairo] PHP Parse error:  syntax error, unexpected ''email'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 2560
+[15-Mar-2018 13:45:15 Africa/Cairo] PHP Parse error:  syntax error, unexpected ''email'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 2560
+[15-Mar-2018 13:46:13 Africa/Cairo] PHP Parse error:  syntax error, unexpected ''email'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 2560
+[15-Mar-2018 13:46:18 Africa/Cairo] PHP Parse error:  syntax error, unexpected ''email'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 2560
+[15-Mar-2018 13:57:48 Africa/Cairo] PHP Parse error:  syntax error, unexpected ''email'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 2560
+[15-Mar-2018 14:01:38 Africa/Cairo] PHP Parse error:  syntax error, unexpected ''email'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 2560
+[15-Mar-2018 14:02:45 Africa/Cairo] PHP Parse error:  syntax error, unexpected ''email'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 2560
+[15-Mar-2018 14:02:51 Africa/Cairo] PHP Parse error:  syntax error, unexpected ''email'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 2560
+[15-Mar-2018 14:04:39 Africa/Cairo] PHP Parse error:  syntax error, unexpected ''email'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 2560
+[15-Mar-2018 14:05:37 Africa/Cairo] PHP Parse error:  syntax error, unexpected ''email'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 2560
+[15-Mar-2018 14:05:39 Africa/Cairo] PHP Parse error:  syntax error, unexpected ''email'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 2560
+[15-Mar-2018 14:06:46 Africa/Cairo] PHP Parse error:  syntax error, unexpected ''email'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 2558
+[15-Mar-2018 14:06:49 Africa/Cairo] PHP Parse error:  syntax error, unexpected ''email'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/youssry/public_html/application/controllers/Api.php on line 2558
+[15-Mar-2018 14:07:36 Africa/Cairo] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/youssry/public_html/application/controllers/Api.php on line 2564
+[15-Mar-2018 14:07:39 Africa/Cairo] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/youssry/public_html/application/controllers/Api.php on line 2564
+[15-Mar-2018 14:10:16 Africa/Cairo] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/youssry/public_html/application/controllers/Api.php on line 2563
+[15-Mar-2018 14:10:20 Africa/Cairo] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/youssry/public_html/application/controllers/Api.php on line 2563
+[15-Mar-2018 14:10:21 Africa/Cairo] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/youssry/public_html/application/controllers/Api.php on line 2563
+[15-Mar-2018 14:27:02 Africa/Cairo] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/youssry/public_html/application/controllers/Api.php on line 2562
+[15-Mar-2018 14:27:04 Africa/Cairo] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/youssry/public_html/application/controllers/Api.php on line 2562
+[15-Mar-2018 14:28:46 Africa/Cairo] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/youssry/public_html/application/controllers/Api.php on line 2562
+[15-Mar-2018 14:28:48 Africa/Cairo] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/youssry/public_html/application/controllers/Api.php on line 2562
+[15-Mar-2018 14:34:54 Africa/Cairo] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/youssry/public_html/application/controllers/Api.php on line 2562
+[15-Mar-2018 14:34:56 Africa/Cairo] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/youssry/public_html/application/controllers/Api.php on line 2562
+[15-Mar-2018 14:35:20 Africa/Cairo] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/youssry/public_html/application/controllers/Api.php on line 2562
+[15-Mar-2018 14:35:23 Africa/Cairo] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/youssry/public_html/application/controllers/Api.php on line 2562
+[15-Mar-2018 14:38:34 Africa/Cairo] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/youssry/public_html/application/controllers/Api.php on line 2562
+[15-Mar-2018 15:07:50 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',' in /home/youssry/public_html/application/controllers/Api.php on line 2551
+[18-Mar-2018 05:04:26 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/youssry/public_html/application/config/config.php on line 533
+[18-Mar-2018 05:04:26 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/youssry/public_html/application/config/config.php on line 533
+[19-Mar-2018 14:27:31 Africa/Cairo] PHP Parse error:  syntax error, unexpected '=' in /home/youssry/public_html/application/controllers/Home.php on line 2213
+[19-Mar-2018 15:50:58 Africa/Cairo] PHP Parse error:  syntax error, unexpected '}' in /home/youssry/public_html/application/views/pages/organization_cars.php on line 120
+[19-Mar-2018 15:51:44 Africa/Cairo] PHP Parse error:  syntax error, unexpected '}' in /home/youssry/public_html/application/views/pages/organization_cars.php on line 118
+[20-Mar-2018 07:35:39 Africa/Cairo] PHP Parse error:  syntax error, unexpected '<' in /home/youssry/public_html/application/views/pages/organization_cars.php on line 115
+[20-Mar-2018 07:36:39 Africa/Cairo] PHP Parse error:  syntax error, unexpected '<' in /home/youssry/public_html/application/views/pages/organization_cars.php on line 115
+[20-Mar-2018 07:37:42 Africa/Cairo] PHP Parse error:  syntax error, unexpected '<' in /home/youssry/public_html/application/views/pages/organization_cars.php on line 115
+[20-Mar-2018 09:16:16 Africa/Cairo] PHP Parse error:  syntax error, unexpected '<' in /home/youssry/public_html/application/views/pages/organization_cars.php on line 115
+[20-Mar-2018 09:17:20 Africa/Cairo] PHP Parse error:  syntax error, unexpected '<' in /home/youssry/public_html/application/views/pages/organization_cars.php on line 115
+[20-Mar-2018 11:56:45 Africa/Cairo] PHP Parse error:  syntax error, unexpected '<' in /home/youssry/public_html/application/views/pages/organization_cars.php on line 115
+[20-Mar-2018 12:35:34 Africa/Cairo] PHP Parse error:  syntax error, unexpected '}' in /home/youssry/public_html/application/controllers/Api.php on line 2643
+[20-Mar-2018 12:36:46 Africa/Cairo] PHP Parse error:  syntax error, unexpected '}' in /home/youssry/public_html/application/controllers/Api.php on line 2639
+[20-Mar-2018 17:48:38 Africa/Cairo] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/youssry/public_html/application/controllers/Api.php on line 2637
+[20-Mar-2018 17:50:25 Africa/Cairo] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/youssry/public_html/application/controllers/Api.php on line 2637
+[20-Mar-2018 17:50:46 Africa/Cairo] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/youssry/public_html/application/controllers/Api.php on line 2637
+[20-Mar-2018 17:52:30 Africa/Cairo] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/youssry/public_html/application/controllers/Api.php on line 2637
+[20-Mar-2018 17:59:23 Africa/Cairo] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/youssry/public_html/application/controllers/Api.php on line 2637
+[20-Mar-2018 17:59:28 Africa/Cairo] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/youssry/public_html/application/controllers/Api.php on line 2637
+[20-Mar-2018 17:59:30 Africa/Cairo] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/youssry/public_html/application/controllers/Api.php on line 2637
+[20-Mar-2018 17:59:46 Africa/Cairo] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/youssry/public_html/application/controllers/Api.php on line 2637
+[20-Mar-2018 17:59:49 Africa/Cairo] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/youssry/public_html/application/controllers/Api.php on line 2637
+[20-Mar-2018 18:00:43 Africa/Cairo] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/youssry/public_html/application/controllers/Api.php on line 2637
+[20-Mar-2018 18:00:49 Africa/Cairo] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/youssry/public_html/application/controllers/Api.php on line 2637
+[20-Mar-2018 18:03:31 Africa/Cairo] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/youssry/public_html/application/controllers/Api.php on line 2637
+[20-Mar-2018 18:05:25 Africa/Cairo] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/youssry/public_html/application/controllers/Api.php on line 2637
+[22-Mar-2018 13:38:29 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/youssry/public_html/application/controllers/Api.php on line 2526
+[22-Mar-2018 14:31:51 Africa/Cairo] PHP Parse error:  syntax error, unexpected '$resultcompany' (T_VARIABLE) in /home/youssry/public_html/application/controllers/Api.php on line 2582
+[22-Mar-2018 18:22:51 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 2752
+[10-Apr-2018 16:12:08 Africa/Cairo] PHP Parse error:  syntax error, unexpected '@', expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 2838
+[10-Apr-2018 16:32:45 Africa/Cairo] PHP Parse error:  syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING) in /home/youssry/public_html/application/controllers/Api.php on line 2815
+[10-Apr-2018 16:42:10 Africa/Cairo] PHP Parse error:  syntax error, unexpected '=' in /home/youssry/public_html/application/views/pages/config/request_mailmain.php on line 30
+[10-Apr-2018 16:48:36 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 2843
+[17-Apr-2018 14:47:44 Africa/Cairo] PHP Parse error:  syntax error, unexpected ')' in /home/youssry/public_html/application/controllers/Api.php on line 2936
+[17-Apr-2018 14:48:11 Africa/Cairo] PHP Parse error:  syntax error, unexpected ')' in /home/youssry/public_html/application/controllers/Api.php on line 2936
+[17-Apr-2018 14:48:52 Africa/Cairo] PHP Parse error:  syntax error, unexpected ')' in /home/youssry/public_html/application/controllers/Api.php on line 2936
+[17-Apr-2018 16:02:50 Africa/Cairo] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 3020
+[18-Apr-2018 12:40:11 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',' in /home/youssry/public_html/application/controllers/Api.php on line 3214
+[18-Apr-2018 15:34:22 Africa/Cairo] PHP Parse error:  syntax error, unexpected ',' in /home/youssry/public_html/application/views/pages/config/passanger_trip_request_api.php on line 41
+[30-Apr-2018 09:17:20 America/Chicago] PHP Warning:  file_get_contents(/home/youssry/public_html/js/mage/cookies.js): failed to open stream: No such file or directory in /home/youssry/public_html/gzip.php on line 9
+[30-Apr-2018 09:17:20 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youssry/public_html/gzip.php:9) in /home/youssry/public_html/gzip.php on line 12
+[30-Apr-2018 09:17:20 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youssry/public_html/gzip.php:9) in /home/youssry/public_html/gzip.php on line 21
+[30-Apr-2018 09:17:20 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youssry/public_html/gzip.php:9) in /home/youssry/public_html/gzip.php on line 25
+[30-Apr-2018 09:17:20 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youssry/public_html/gzip.php:9) in /home/youssry/public_html/gzip.php on line 28
+[01-May-2018 15:05:42 Africa/Cairo] PHP Parse error:  syntax error, unexpected '}' in /home/youssry/public_html/application/views/pages/config/passanger_trip_request_api.php on line 54
+[01-May-2018 16:17:18 Africa/Cairo] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/youssry/public_html/application/views/pages/config/passanger_trip_request_api.php on line 39
+[15-May-2018 06:43:41 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-May-2018 06:44:38 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-May-2018 06:47:04 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[15-May-2018 14:22:41 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 2838
+[15-May-2018 14:23:10 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 2838
+[15-May-2018 14:23:20 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 2838
+[15-May-2018 14:52:48 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/youssry/public_html/application/controllers/Api.php on line 2813
+[15-May-2018 15:10:55 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 2855
+[15-May-2018 15:10:58 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 2855
+[15-May-2018 15:11:24 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 2855
+[15-May-2018 15:11:32 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 2855
+[15-May-2018 15:11:40 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 2855
+[15-May-2018 15:11:51 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 2855
+[15-May-2018 15:32:37 Africa/Cairo] PHP Fatal error:  Cannot use object of type stdClass as array in /home/youssry/public_html/application/views/pages/config/passanger_trip_request_api.php on line 105
+[15-May-2018 15:35:09 Africa/Cairo] PHP Fatal error:  Cannot use object of type stdClass as array in /home/youssry/public_html/application/views/pages/config/passanger_trip_request_api.php on line 105
+[02-Jun-2018 00:54:06 America/Chicago] PHP Warning:  file_get_contents(/home/youssry/public_html/js/login.js): failed to open stream: No such file or directory in /home/youssry/public_html/gzip.php on line 9
+[02-Jun-2018 00:54:06 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youssry/public_html/gzip.php:9) in /home/youssry/public_html/gzip.php on line 12
+[02-Jun-2018 00:54:06 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youssry/public_html/gzip.php:9) in /home/youssry/public_html/gzip.php on line 21
+[02-Jun-2018 00:54:06 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youssry/public_html/gzip.php:9) in /home/youssry/public_html/gzip.php on line 25
+[02-Jun-2018 00:54:06 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/youssry/public_html/gzip.php:9) in /home/youssry/public_html/gzip.php on line 28
+[10-Jun-2018 05:03:16 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[10-Jun-2018 05:03:29 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[10-Jun-2018 05:15:40 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[10-Jun-2018 05:37:43 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[13-Jun-2018 04:01:04 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[13-Jun-2018 04:03:57 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[13-Jun-2018 04:04:33 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[13-Jun-2018 04:05:21 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[13-Jun-2018 11:08:54 Africa/Cairo] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/youssry/public_html/application/controllers/Api.php on line 3229
+[13-Jun-2018 11:15:18 Africa/Cairo] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/youssry/public_html/application/controllers/Api.php on line 3229
+[13-Jun-2018 11:15:45 Africa/Cairo] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/youssry/public_html/application/controllers/Api.php on line 3229
+[13-Jun-2018 11:24:33 Africa/Cairo] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/youssry/public_html/application/controllers/Api.php on line 3229
+[13-Jun-2018 11:28:25 Africa/Cairo] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/youssry/public_html/application/controllers/Api.php on line 3229
+[13-Jun-2018 11:32:20 Africa/Cairo] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/youssry/public_html/application/controllers/Api.php on line 3229
+[13-Jun-2018 11:36:22 Africa/Cairo] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/youssry/public_html/application/controllers/Api.php on line 3236
+[13-Jun-2018 11:36:37 Africa/Cairo] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/youssry/public_html/application/controllers/Api.php on line 3236
+[13-Jun-2018 11:36:41 Africa/Cairo] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/youssry/public_html/application/controllers/Api.php on line 3236
+[13-Jun-2018 11:36:57 Africa/Cairo] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/youssry/public_html/application/controllers/Api.php on line 3236
+[13-Jun-2018 11:37:30 Africa/Cairo] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/youssry/public_html/application/controllers/Api.php on line 3236
+[14-Jun-2018 13:39:15 Africa/Cairo] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 3274
+[14-Jun-2018 13:46:00 Africa/Cairo] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::orderby() in /home/youssry/public_html/application/controllers/Api.php on line 3240
+[14-Jun-2018 13:46:17 Africa/Cairo] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::orderby() in /home/youssry/public_html/application/controllers/Api.php on line 3240
+[14-Jun-2018 13:48:14 Africa/Cairo] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::limit() in /home/youssry/public_html/application/controllers/Api.php on line 3240
+[14-Jun-2018 13:56:45 Africa/Cairo] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::orderby() in /home/youssry/public_html/application/controllers/Api.php on line 3240
+[17-Jun-2018 00:24:00 Africa/Cairo] PHP Parse error:  syntax error, unexpected '@', expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 3356
+[16-Jun-2018 17:31:26 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[19-Jun-2018 14:14:25 Africa/Cairo] PHP Parse error:  syntax error, unexpected '@', expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 3713
+[19-Jun-2018 14:14:56 Africa/Cairo] PHP Parse error:  syntax error, unexpected '@', expecting function (T_FUNCTION) in /home/youssry/public_html/application/controllers/Api.php on line 3713
+[19-Jun-2018 17:15:39 Africa/Cairo] PHP Parse error:  syntax error, unexpected end of file in /home/youssry/public_html/application/controllers/Api.php on line 3797
+[20-Jun-2018 15:03:13 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/youssry/public_html/application/controllers/Carpooling.php on line 181
+[20-Jun-2018 15:04:11 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/youssry/public_html/application/controllers/Carpooling.php on line 181
+[20-Jun-2018 15:04:40 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/youssry/public_html/application/controllers/Carpooling.php on line 181
+[20-Jun-2018 15:06:11 Africa/Cairo] PHP Fatal error:  Cannot redeclare Api::carpooling_passanger_cancel_api() in /home/youssry/public_html/application/controllers/Api.php on line 4008
+[20-Jun-2018 15:06:23 Africa/Cairo] PHP Fatal error:  Cannot redeclare Api::carpooling_passanger_cancel_api() in /home/youssry/public_html/application/controllers/Api.php on line 4008
+[20-Jun-2018 15:08:14 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/youssry/public_html/application/controllers/Carpooling.php on line 181
+[25-Jun-2018 12:24:29 Africa/Cairo] PHP Fatal error:  Cannot use object of type stdClass as array in /home/youssry/public_html/application/views/pages/config/driver_accept_api.php on line 171
+[25-Jun-2018 12:24:34 Africa/Cairo] PHP Fatal error:  Cannot use object of type stdClass as array in /home/youssry/public_html/application/views/pages/config/driver_accept_api.php on line 171
+[25-Jun-2018 12:24:36 Africa/Cairo] PHP Fatal error:  Cannot use object of type stdClass as array in /home/youssry/public_html/application/views/pages/config/driver_accept_api.php on line 171
+[25-Jun-2018 12:24:41 Africa/Cairo] PHP Fatal error:  Cannot use object of type stdClass as array in /home/youssry/public_html/application/views/pages/config/driver_accept_api.php on line 171
+[25-Jun-2018 12:24:44 Africa/Cairo] PHP Fatal error:  Cannot use object of type stdClass as array in /home/youssry/public_html/application/views/pages/config/driver_accept_api.php on line 171
+[25-Jun-2018 12:24:49 Africa/Cairo] PHP Fatal error:  Cannot use object of type stdClass as array in /home/youssry/public_html/application/views/pages/config/driver_accept_api.php on line 171
+[25-Jun-2018 12:25:16 Africa/Cairo] PHP Fatal error:  Cannot use object of type stdClass as array in /home/youssry/public_html/application/views/pages/config/driver_accept_api.php on line 171
+[25-Jun-2018 12:25:38 Africa/Cairo] PHP Fatal error:  Cannot use object of type stdClass as array in /home/youssry/public_html/application/views/pages/config/driver_accept_api.php on line 171
+[25-Jun-2018 12:25:58 Africa/Cairo] PHP Fatal error:  Cannot use object of type stdClass as array in /home/youssry/public_html/application/views/pages/config/driver_accept_api.php on line 171
+[25-Jun-2018 12:26:00 Africa/Cairo] PHP Fatal error:  Cannot use object of type stdClass as array in /home/youssry/public_html/application/views/pages/config/driver_accept_api.php on line 171
+[25-Jun-2018 12:26:05 Africa/Cairo] PHP Fatal error:  Cannot use object of type stdClass as array in /home/youssry/public_html/application/views/pages/config/driver_accept_api.php on line 171
+[25-Jun-2018 12:27:08 Africa/Cairo] PHP Fatal error:  Cannot use object of type stdClass as array in /home/youssry/public_html/application/views/pages/config/driver_accept_api.php on line 171
+[25-Jun-2018 12:27:13 Africa/Cairo] PHP Fatal error:  Cannot use object of type stdClass as array in /home/youssry/public_html/application/views/pages/config/driver_accept_api.php on line 171
+[25-Jun-2018 12:27:24 Africa/Cairo] PHP Fatal error:  Cannot use object of type stdClass as array in /home/youssry/public_html/application/views/pages/config/driver_accept_api.php on line 171
+[25-Jun-2018 13:17:33 Africa/Cairo] PHP Fatal error:  Cannot use object of type stdClass as array in /home/youssry/public_html/application/views/pages/config/driver_accept_api.php on line 171
+[25-Jun-2018 13:18:03 Africa/Cairo] PHP Fatal error:  Cannot use object of type stdClass as array in /home/youssry/public_html/application/views/pages/config/driver_accept_api.php on line 171
+[25-Jun-2018 13:18:41 Africa/Cairo] PHP Fatal error:  Cannot use object of type stdClass as array in /home/youssry/public_html/application/views/pages/config/driver_accept_api.php on line 171
+[25-Jun-2018 20:14:23 Africa/Cairo] PHP Parse error:  syntax error, unexpected '<' in /home/youssry/public_html/application/views/pages/config/passanger_trip_request_api.php on line 73
+[25-Jun-2018 23:22:23 Africa/Cairo] PHP Parse error:  syntax error, unexpected end of file in /home/youssry/public_html/application/views/pages/config/passanger_trip_request_api.php on line 133
+[27-Jun-2018 12:14:54 Africa/Cairo] PHP Parse error:  syntax error, unexpected end of file in /home/youssry/public_html/application/views/pages/config/cancel_order_api.php on line 101
+[27-Jun-2018 12:15:09 Africa/Cairo] PHP Parse error:  syntax error, unexpected end of file in /home/youssry/public_html/application/views/pages/config/cancel_order_api.php on line 101
+[28-Jun-2018 12:55:45 Africa/Cairo] PHP Fatal error:  Cannot use object of type stdClass as array in /home/youssry/public_html/application/views/pages/config/no_driver_api.php on line 48
+[28-Jun-2018 12:56:04 Africa/Cairo] PHP Fatal error:  Cannot use object of type stdClass as array in /home/youssry/public_html/application/views/pages/config/no_driver_api.php on line 48
+[28-Jun-2018 13:01:28 Africa/Cairo] PHP Fatal error:  Cannot use object of type stdClass as array in /home/youssry/public_html/application/views/pages/config/no_driver_api.php on line 48
+[28-Jun-2018 13:02:19 Africa/Cairo] PHP Fatal error:  Cannot use object of type stdClass as array in /home/youssry/public_html/application/views/pages/config/no_driver_api.php on line 48
+[28-Jun-2018 06:10:31 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Jun-2018 06:11:19 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[29-Jun-2018 01:47:49 Africa/Cairo] PHP Fatal error:  Class 'public_Controller' not found in /home2/bsor3a/public_html/application/controllers/Islam.php on line 32
+[28-Jun-2018 19:20:31 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[29-Jun-2018 02:20:31 Africa/Cairo] PHP Parse error:  syntax error, unexpected ']' in /home2/bsor3a/public_html/application/controllers/Islam.php on line 31
+[28-Jun-2018 19:21:56 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[29-Jun-2018 02:21:56 Africa/Cairo] PHP Fatal error:  Call to undefined function json() in /home2/bsor3a/public_html/application/controllers/Islam.php on line 51
+[28-Jun-2018 19:25:50 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[29-Jun-2018 02:25:50 Africa/Cairo] PHP Fatal error:  Call to undefined function json() in /home2/bsor3a/public_html/application/controllers/Islam.php on line 57
+[28-Jun-2018 19:26:48 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Jun-2018 19:27:26 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Jun-2018 19:31:25 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Jun-2018 19:32:23 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Jun-2018 19:32:36 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Jun-2018 19:33:51 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Jun-2018 19:33:54 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Jun-2018 19:34:51 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Jun-2018 19:35:38 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Jun-2018 19:36:57 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Jun-2018 19:37:02 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Jun-2018 19:37:12 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Jun-2018 19:37:24 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Jun-2018 19:37:57 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Jun-2018 19:38:39 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Jun-2018 19:39:37 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[29-Jun-2018 02:39:37 Africa/Cairo] PHP Fatal error:  Call to undefined function lastq() in /home2/bsor3a/public_html/application/controllers/Islam.php on line 56
+[28-Jun-2018 19:41:00 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Jun-2018 19:42:23 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Jun-2018 19:43:38 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Jun-2018 19:44:34 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Jun-2018 19:46:16 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Jun-2018 19:48:15 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Jun-2018 19:58:16 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Jun-2018 20:02:34 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Jun-2018 20:02:38 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Jun-2018 20:02:43 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Jun-2018 20:07:49 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Jun-2018 20:07:52 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Jun-2018 20:21:52 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Jun-2018 20:21:54 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[29-Jun-2018 09:05:07 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[29-Jun-2018 09:07:51 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[29-Jun-2018 09:58:22 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[29-Jun-2018 16:58:23 Africa/Cairo] PHP Fatal error:  Call to undefined function print_ln() in /home2/bsor3a/public_html/application/controllers/Clients.php on line 243
+[29-Jun-2018 09:59:46 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[29-Jun-2018 16:59:46 Africa/Cairo] PHP Fatal error:  Cannot access empty property in /home2/bsor3a/public_html/application/controllers/Clients.php on line 237
+[29-Jun-2018 17:00:19 Africa/Cairo] PHP Fatal error:  Cannot access empty property in /home2/bsor3a/public_html/application/controllers/Clients.php on line 237
+[29-Jun-2018 17:04:44 Africa/Cairo] PHP Fatal error:  Cannot access empty property in /home2/bsor3a/public_html/application/controllers/Clients.php on line 237
+[29-Jun-2018 17:08:08 Africa/Cairo] PHP Fatal error:  Cannot access empty property in /home2/bsor3a/public_html/application/controllers/Clients.php on line 237
+[29-Jun-2018 17:10:04 Africa/Cairo] PHP Fatal error:  Call to undefined function print_ln() in /home2/bsor3a/public_html/application/controllers/Clients.php on line 240
+[29-Jun-2018 18:37:21 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home2/bsor3a/public_html/application/controllers/Delivery.php on line 262
+[29-Jun-2018 18:37:32 Africa/Cairo] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home2/bsor3a/public_html/application/controllers/Delivery.php on line 262
+[29-Jun-2018 19:33:50 Africa/Cairo] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home2/bsor3a/public_html/application/controllers/Clients.php on line 408
+[29-Jun-2018 20:31:52 Africa/Cairo] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/bsor3a/public_html/application/controllers/Clients.php on line 455
+[29-Jun-2018 20:32:03 Africa/Cairo] PHP Parse error:  syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home2/bsor3a/public_html/application/controllers/Clients.php on line 455
+[30-Jun-2018 00:30:35 Africa/Cairo] PHP Fatal error:  Call to undefined function get_price() in /home2/bsor3a/public_html/application/controllers/Clients.php on line 491
+[30-Jun-2018 00:36:07 Africa/Cairo] PHP Fatal error:  Call to undefined function get_price() in /home2/bsor3a/public_html/application/controllers/Clients.php on line 491
+[01-Jul-2018 22:21:45 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[02-Jul-2018 18:06:20 Africa/Cairo] PHP Fatal error:  Cannot redeclare Clients::gen_random_code() in /home2/bsor3a/public_html/application/controllers/Clients.php on line 538
+[02-Jul-2018 18:07:53 Africa/Cairo] PHP Fatal error:  Cannot redeclare Clients::gen_random_code() in /home2/bsor3a/public_html/application/controllers/Clients.php on line 538
+[03-Jul-2018 22:18:43 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[03-Jul-2018 22:21:01 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Jul-2018 11:59:11 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
